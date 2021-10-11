@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display:inline ;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.instruction_image{
+    display: inline;
+    width: 45%;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+.copy_right_footer{
+    position: sticky;
+    background-color: gray;
+    font-size: 25px;
+    text-align: center;
+}
+
+#restart{
+    background-color: palevioletred;
+    border: 2px solid white;
+}
